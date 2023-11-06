@@ -1,0 +1,67 @@
+body{
+    background-color: rgba(3, 17, 12, 0.959);
+}
+
+.firstimg
+    {
+        width: 35.9cm;
+        height: 10cm ; 
+        left:0px;
+
+    }
+
+.secImg
+    {
+        width: 3cm;
+        height: 3cm;
+        position: absolute;
+        top: 40px;
+        left:12px; 
+    }
+
+    .bottom-left {
+        position: absolute;
+        top: 70px;
+        left: 140px;
+        font: 1.5em Serif;
+        color: peachpuff;
+        }
+
+    .top-left {
+        position: absolute;
+        top: 210px;
+        left: 260px;
+        font: 4em Serif;
+        color: peachpuff;
+        }   
+
+    .top-right {
+        position: absolute;
+        top: 90px;
+        right: 30px;
+        font: 1em Serif ;
+        color: peachpuff;
+    } 
+
+.BG1 {
+    width: 29cm;
+    height: 23cm;
+    position: absolute;
+    top: 10;
+    left:20px; 
+}
+
+.Ri{
+    position: absolute;
+        top: 850px;
+        right: 20px;
+        font: 3rem Serif;
+        color: peachpuff;
+        background-color: rgba(3, 17, 12, 0.959);
+        padding: 30px;
+        padding-left: 80px;
+        padding-right: 200px;
+        border-radius: 20px; 
+ }      
+
+

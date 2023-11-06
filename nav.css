@@ -1,0 +1,40 @@
+ul{
+    list-style-type: none;
+    background-color:palegoldenrod ;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+
+li{
+    float: left ;
+}
+li a{
+    display: block;
+    text-decoration: none;
+    color: black;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    margin: 0;
+    font: 1.2rem Serif;
+}
+
+li a:hover{
+    background-color:rgba(85, 253, 194, 0.959) ;
+}
+
+li a:active{
+    background-color:rgba(49, 122, 97, 0.959) ;
+}
+
+li a.active{
+    background-color:rgba(49, 122, 97, 0.959) ;
+}
+
+
+
+
